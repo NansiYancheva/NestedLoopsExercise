@@ -1,0 +1,15 @@
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.exe
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.deps.json
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.runtimeconfig.json
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\ref\05. Special Numbers.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.pdb
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfo.cs
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\ref\05. Special Numbers.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.pdb
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.genruntimeconfig.cache

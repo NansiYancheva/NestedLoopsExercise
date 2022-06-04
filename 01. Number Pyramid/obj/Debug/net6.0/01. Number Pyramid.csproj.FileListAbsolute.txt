@@ -1,0 +1,15 @@
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net6.0\01. Number Pyramid.exe
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net6.0\01. Number Pyramid.deps.json
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net6.0\01. Number Pyramid.runtimeconfig.json
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net6.0\01. Number Pyramid.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net6.0\ref\01. Number Pyramid.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net6.0\01. Number Pyramid.pdb
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\01. Number Pyramid.csproj.AssemblyReference.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\01. Number Pyramid.AssemblyInfoInputs.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\01. Number Pyramid.AssemblyInfo.cs
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\01. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\01. Number Pyramid.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\ref\01. Number Pyramid.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\01. Number Pyramid.pdb
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net6.0\01. Number Pyramid.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net6.0\03. Sum Prime Non Prime.exe
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net6.0\03. Sum Prime Non Prime.deps.json
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net6.0\03. Sum Prime Non Prime.runtimeconfig.json
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net6.0\03. Sum Prime Non Prime.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net6.0\ref\03. Sum Prime Non Prime.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net6.0\03. Sum Prime Non Prime.pdb
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\03. Sum Prime Non Prime.AssemblyInfo.cs
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\03. Sum Prime Non Prime.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\ref\03. Sum Prime Non Prime.dll
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\03. Sum Prime Non Prime.pdb
+C:\Visual Studio\Nested Loops - Exercise\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net6.0\03. Sum Prime Non Prime.genruntimeconfig.cache
